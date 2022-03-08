@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '897b15ec39e0437dabdefd4fafee5cfe?v=1770b5e31e874b318ebfad8ea0eaa858',
+  rootNotionPageId: 'c39d44c8ecaf4992bf491918b8a63c98',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '橘仁的小天地',
-  domain: 'https://www.notion.so/897b15ec39e0437dabdefd4fafee5cfe?v=1770b5e31e874b318ebfad8ea0eaa858',
+  domain: 'https://local-dentist-1da.notion.site/c39d44c8ecaf4992bf491918b8a63c98',
   author: '橘仁',
 
   // open graph metadata (optional)
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: '',
-  github: 'shijurenya',
+  github: '',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
