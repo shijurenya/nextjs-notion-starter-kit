@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '橘仁的小天地',
+  name: '橘仁的博客',
   domain: 'https://local-dentist-1da.notion.site/85cb4e0d95e948798be12eaf20749c74',
   author: '橘仁',
 
